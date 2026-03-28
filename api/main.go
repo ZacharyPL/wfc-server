@@ -99,6 +99,7 @@ func StartServer(reload bool) {
 		InvestigateRoute,
 		KickRoute,
 		LinkRoute,
+		MiiRoute,
 		MotdRoute,
 		NewPlayersRoute,
 		PinfoRoute,
